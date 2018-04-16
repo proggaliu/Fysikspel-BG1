@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 
-//Nu har jag ändrat
+//Nu har jag ändrat massor
 
 public class Main {
     private static double lastUpdate;
