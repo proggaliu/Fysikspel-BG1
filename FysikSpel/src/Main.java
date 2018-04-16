@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 
-//Min nya 
+//Nu har jag ändrat
 
 public class Main {
     private static double lastUpdate;
