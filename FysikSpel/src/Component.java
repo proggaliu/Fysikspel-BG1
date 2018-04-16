@@ -8,9 +8,7 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.FileSystems;
 
-/**
- * Created by henning on 15-04-15.
- */
+
 public class Component extends JComponent {
     public Game game;
     public static final int WIDTH = 600;
