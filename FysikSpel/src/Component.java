@@ -20,7 +20,7 @@ public class Component extends JComponent {
         setInput();
         try {
             player = ImageIO.read(new File(FileSystems.getDefault().getPath(
-                    "data", "GlowingNugget.png").toUri()));
+                    "data", "img-datacenters-quant-600.png").toUri()));
         } catch (IOException e) {
             System.out.println("Image not found");
             player = new BufferedImage(50, 50, BufferedImage.TYPE_3BYTE_BGR);

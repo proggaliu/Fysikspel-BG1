@@ -2,7 +2,7 @@
 import java.awt.*;
 
 /**
- * Created by henning on 15-04-15.
+ * Created by henning on 15-04-15.     fvbcb
  */
 public class Game {
     private Point position;
